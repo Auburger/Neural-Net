@@ -1,2 +1,2 @@
 # Neural-Net
-A neural network I'm making in racket. It started off as a joke but now I'm kind of invested.
+I got fairly into some vaguely data science-y related stuff recently, and I wanted to actually understand how this stuff worked under the hood, so I'm doing it myself, no libraries, no nothing: just me, and good old Racket. No, this isn't finished either. I still have to fix the forward feed (I think my syntax is a bit off too) and actually do the backpropagation. Maybe check back in a bit!
